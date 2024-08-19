@@ -1,0 +1,66 @@
+h1{
+    color: rgb(15, 15, 91); 
+    background-color: rgb(103, 126, 201);
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid red;
+ }
+ em{
+     color: red;
+ }
+ .class2{
+     text-align: center;
+     color: green;
+     background-color: yellow;
+ }
+ .class1{
+     color: green;
+ }
+ .img2{
+     margin-right: 100px;
+ }
+ .img1{
+     margin-left: 100px;
+ }
+ .benchoksikildimmalesef{
+     margin-left: 370px;
+     background-color: black;
+     width: 700px;
+ }
+ textarea{
+     width: 1300px;
+     height: 40px;
+ }
+ button{
+     background-color: rgb(69, 69, 192);
+     width: 200px;
+     height: 40px;
+     color: white;
+ }
+ .th1{
+     background-color: green;
+     color: white;
+     border: 1px solid gray;
+ }
+ .th2{
+     background-color: blue;
+     color: white;
+     border: 1px solid gray;
+ }
+ .td1{
+     background-color: red;
+     color: white;
+     border: 1px solid gray;
+ }
+ .td2{
+     background-color: black;
+     color: white;
+     border: 1px solid gray;
+ }
+ table{
+     border-collapse: collapse;
+     width: 1000px;
+     height: 100px;
+ }
+ 
+ 
